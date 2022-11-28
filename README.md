@@ -16,8 +16,8 @@ https://github.com/connerlaursen/Work-Day-Scheduler
 
 Screenshot of Deployed Site
 
-![screenshot 1](assets/images/Screen%20Shot%202022-11-27%20at%207.35.24%20PM.png);
-![screenshot 2](assets/images/Screen%20Shot%202022-11-27%20at%207.36.03%20PM.png);
+![screenshot 1](./Assets/images/Screen%20Shot%202022-11-27%20at%207.35.24%20PM.png);
+![screenshot 2](./Assets/images/Screen%20Shot%202022-11-27%20at%207.36.03%20PM.png);
 
 
 

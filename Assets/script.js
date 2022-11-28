@@ -28,7 +28,7 @@ var saveBtn = $(".saveBtn");
 
   // FUNCTIONS
 
-$("#currentDay").text(moment().format('dddd MMMM Do YYYY'));
+$("#currentDay").text(moment().format('dddd, MMMM Do YYYY'));
 
 function timeBlockColor () {
 

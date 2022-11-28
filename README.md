@@ -8,7 +8,7 @@ This is the fifth challenge assignment due on 11/28/22.
 The code was created in order to fulfill the acceptance criteria. In this case, we needed a work place scheduler. The current date is displayed at the top of the page. The rows change color depending on the time of day, showing the past, present and future. You can save messages using the button to keep messages displayed, even if the page is refreshed or left.
 
 ## Link to Deployed Site
-https://connerlaursen.github.io/Work-Place-Scheduler/
+https://connerlaursen.github.io/Work-Day-Scheduler/
 
 ## Link to Repository
 
